@@ -1,4 +1,4 @@
-🌐 https://anjalimistrydev.github.io/Khelo/
+
 # 🎮 Khelo — Free Online Games
 
 A kid-friendly web arcade with **145 free games** — no downloads, no sign-up. Works on any phone or computer.
